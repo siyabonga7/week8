@@ -1,0 +1,2 @@
+PORT=3000
+DATABASE_URL=mysql://root:Mamrican.7:3000/my_project
